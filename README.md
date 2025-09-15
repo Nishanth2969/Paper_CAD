@@ -1,6 +1,14 @@
 # PaperCAD Edge: Intelligent Sketch-to-CAD Converter
 
+**Qualcomm Edge AI Hackathon Project**
+
 PaperCAD Edge is a powerful, local-first application that transforms both **hand-drawn sketches** and **professional floor plans** into clean, editable, and intelligent CAD models. By leveraging NPU acceleration, PaperCAD Edge delivers real-time performance, making it ideal for on-the-go design and digitization.
+
+## 👥 Team Members
+- **Nishanth Kotla** - nk3968
+- **Shreyas Bhaktharam**
+- **Rivujit Das**
+- **Anurup Naskar**
 
 -----
 
